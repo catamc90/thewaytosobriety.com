@@ -5,8 +5,9 @@
 # The way to Sobriety
 ## thewaytosobriety.com
 
+![Logo](https://thewaytosobriety.com/assets/images/logo-icon-7d4cd9a879965a0ea66b3f0c4a92c4f3.png)
 
-![Logo]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://thewaytosobriety.com/assets/images/logo-icon-7d4cd9a879965a0ea66b3f0c4a92c4f3.png))
+
 
 
 
